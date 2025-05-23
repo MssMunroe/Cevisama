@@ -1,0 +1,121 @@
+<mjml>
+  <mj-head>
+    <mj-title>Cevisama</mj-title>
+    <mj-attributes>
+      <mj-all font-family="'Helvetica Neue', Helvetica, Arial, sans-serif"></mj-all>
+      <mj-text font-weight="400" font-size="16px" color="#000000" line-height="24px" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif"></mj-text>
+    </mj-attributes>
+  </mj-head>
+
+  <mj-body background-color="#E7E7E7" width="600px">
+    <mj-section full-width="full-width" background-color="#edd617" padding-bottom="0">
+      <mj-column width="100%">
+        <mj-image src="./media/letras.png" alt="Letras Cevisama" align="center" width="150px" />
+        <mj-divider border-color="#1f2e78"/>
+        <mj-text color="#1f2e78" align="center" font-size="13px" padding="20px" font-weight="bold" text-transform="uppercase" letter-spacing="1px" line-height="20px">
+          Av. de les Fires, <br>
+           València, Valencia
+        </mj-text>
+        <mj-spacer height="20px"/>
+        <mj-image src="./media/azulejos.jpg" width="600px" alt="" padding="0" />
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#1f2e78">
+      <mj-column width="100%">
+        <mj-image width="600px" src="./media/CabeceraCVS.jpg" alt="Cabecera Cevisama" padding="0" href="https://cevisama.feriavalencia.com/" />
+      </mj-column>
+    </mj-section>
+
+    <mj-wrapper padding-top="0" padding-bottom="0" css-class="body-section">
+      
+      <mj-section background-color="#ffffff" padding="15px 0 0 15px">
+        <mj-column width="100%">
+
+          <mj-text align="center" color="#212b35" font-weight="bold" font-size="20px">
+            ¿Cómo deseas participar?
+          </mj-text>
+         
+          <mj-button background-color="#1f2e78" align="center" color="#ffffff" font-size="17px" font-weight="bold" href="https://cevisama.feriavalencia.com/visitar/" width="300px">
+            Visitante
+          </mj-button>
+          <mj-button background-color="#1f2e78" align="center" color="#ffffff" font-size="17px" font-weight="bold" href="https://cevisama.feriavalencia.com/exponer/" width="300px">
+            Expositor
+          </mj-button>
+          <mj-text color="#637381" font-size="16px" padding-top="30px">
+          Este es el espacio perfecto para exponer y conseguir una mayor exposición mundial, así como crear nuevas relaciones comerciales.
+          </mj-text>
+         
+        </mj-column>
+      </mj-section>
+
+      <mj-section background-color="#ffffff" padding-left="15px" padding-right="15px" padding-top="0">
+
+        <mj-column width="100%">
+          <mj-divider border-color="#DFE3E8" border-width="1px" />
+          <mj-text color="#212b35" font-weight="bold" font-size="25px" padding="25px">
+            ¿Deseas exponer?
+          </mj-text>
+          <mj-text color="#637381" font-size="16px">
+            Diseño, sostenibilidad, innovación, tecnología, tendencias, nuevos materiales, todo esto y más
+            en Cevisama 2026.
+          </mj-text>
+          <mj-text color="#637381" font-size="16px">
+            Más de 60.000 visitantes, nacionales e internacionales, desde España hasta Estados Unidos pasando por Alemania,
+            con un 68% interesados en buscar las mejores baldosas de cerámica del mercado, y un 40% en búsqueda de equipamiento para el baño.
+          </mj-text>
+          <mj-text color="#637381" font-size="16px">
+            Pero tranquilo que si ese no es tu sector, también contamos con más de un 15% que desea materias primas, maquinaria, tecnología y arquitectura sostenible.
+          </mj-text>
+          <mj-image src="./media/visitas.png" alt="" />
+        </mj-column>
+      </mj-section>
+
+      <mj-section background-color="#ffffff" padding="15px 0 0 15px">
+        <mj-column width="50%">
+          <mj-text color="#212b35" font-size="12px" text-transform="uppercase" font-weight="bold" padding-bottom="0">
+            ¿donde estamos?
+          </mj-text>
+          <mj-text color="#637381" font-size="14px" padding-top="0">
+           Av. de les Fires, s/n, Pobles de l'Oest, <br>
+           46035 València, Valencia
+          </mj-text>
+        </mj-column>
+
+        <mj-column width="50%">
+          <mj-text color="#212b35" font-size="12px" text-transform="uppercase" font-weight="bold" padding-bottom="0">
+            horarios
+          </mj-text>
+          <mj-text color="#637381" font-size="14px" padding-top="0">
+            24-27 Feb - 9.00-18.00h
+            <br />
+            28 Feb - 9.00-15.00h
+          </mj-text>
+        </mj-column>
+      </mj-section>
+      
+      <mj-section background-color="#ffffff" padding-left="15px" padding-right="15px">
+        <mj-column width="100%">     
+        <mj-text>
+            <a href="https://maps.app.goo.gl/jcZ1DJATPmQqija59"><img src="./media/MapaFeriavalencia.png" alt="Imagen Mapa Feria Valencia" /></a>
+        </mj-text>
+        </mj-column>
+      </mj-section>
+    </mj-wrapper>
+
+      <mj-section>
+        <mj-column width="100%" padding="0">
+          <mj-social font-size="15px" icon-size="30px" mode="horizontal" padding="0" align="center">
+            <mj-social-element name="facebook" href="https://www.facebook.com/Cevisama/" background-color="#A1A0A0">
+            </mj-social-element>
+            <mj-social-element name="instagram" href="https://www.instagram.com/cevisama/" background-color="#A1A0A0">
+            </mj-social-element>
+            <mj-social-element name="twitter" href="https://twitter.com/cevisama" background-color="#A1A0A0">
+            </mj-social-element>
+            <mj-social-element name="linkedin" href="https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fcompany%2Fcevisama%2Fabout" background-color="#A1A0A0">
+            </mj-social-element>
+          </mj-social>
+
+      </mj-section>
+
+  </mj-body>
+</mjml>
