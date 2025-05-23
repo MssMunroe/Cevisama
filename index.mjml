@@ -10,19 +10,19 @@
   <mj-body background-color="#E7E7E7" width="600px">
     <mj-section full-width="full-width" background-color="#edd617" padding-bottom="0">
       <mj-column width="100%">
-        <mj-image src="./media/letras.png" alt="Letras Cevisama" align="center" width="150px" />
+        <mj-image src="https://raw.githubusercontent.com/MssMunroe/Cevisama/refs/heads/main/media/letras.png" alt="Letras Cevisama" align="center" width="150px" />
         <mj-divider border-color="#1f2e78"/>
         <mj-text color="#1f2e78" align="center" font-size="13px" padding="20px" font-weight="bold" text-transform="uppercase" letter-spacing="1px" line-height="20px">
           Av. de les Fires, <br>
            València, Valencia
         </mj-text>
         <mj-spacer height="20px"/>
-        <mj-image src="./media/azulejos.jpg" width="600px" alt="" padding="0" />
+        <mj-image src="https://raw.githubusercontent.com/MssMunroe/Cevisama/refs/heads/main/media/azulejos.jpg" alt="Azulejos de colores" width="600px" padding="0" />
       </mj-column>
     </mj-section>
     <mj-section background-color="#1f2e78">
       <mj-column width="100%">
-        <mj-image width="600px" src="./media/CabeceraCVS.jpg" alt="Cabecera Cevisama" padding="0" href="https://cevisama.feriavalencia.com/" />
+        <mj-image width="600px" src="https://raw.githubusercontent.com/MssMunroe/Cevisama/refs/heads/main/media/CabeceraCVS.jpg" alt="Cabecera Cevisama" padding="0" href="https://cevisama.feriavalencia.com/" />
       </mj-column>
     </mj-section>
 
@@ -66,7 +66,7 @@
           <mj-text color="#637381" font-size="16px">
             Pero tranquilo que si ese no es tu sector, también contamos con más de un 15% que desea materias primas, maquinaria, tecnología y arquitectura sostenible.
           </mj-text>
-          <mj-image src="./media/visitas.png" alt="" />
+          <mj-image src="https://raw.githubusercontent.com/MssMunroe/Cevisama/refs/heads/main/media/visitas.png" alt="Número de visitantes" />
         </mj-column>
       </mj-section>
 
@@ -93,10 +93,10 @@
         </mj-column>
       </mj-section>
       
-      <mj-section background-color="#ffffff" padding-left="15px" padding-right="15px">
+      <mj-section background-color="#ffffff" padding="15px">
         <mj-column width="100%">     
         <mj-text>
-            <a href="https://maps.app.goo.gl/jcZ1DJATPmQqija59"><img src="./media/MapaFeriavalencia.png" alt="Imagen Mapa Feria Valencia" /></a>
+            <a href="https://maps.app.goo.gl/jcZ1DJATPmQqija59"><img src="https://raw.githubusercontent.com/MssMunroe/Cevisama/refs/heads/main/media/MapaFeriaValencia.png" alt="Imagen Mapa Feria Valencia" width="500px" /></a>
         </mj-text>
         </mj-column>
       </mj-section>
