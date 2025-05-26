@@ -10,7 +10,7 @@
   <mj-body background-color="#E7E7E7" width="600px">
     <mj-section full-width="full-width" background-color="#edd617" padding-bottom="0">
     <mj-column width="50%">
-          <mj-image src="./media/ferialogo.png" alt="Logo Feria" align="center" width="150px" />
+          <mj-image src="https://raw.githubusercontent.com/MssMunroe/Cevisama/refs/heads/main/media/ferialogo.png" alt="Logo Feria" align="center" width="150px" />
       </mj-column>
           <mj-column width="50%">
         <mj-image src="https://raw.githubusercontent.com/MssMunroe/Cevisama/refs/heads/main/media/letras.png" alt="Letras Cevisama" align="center" width="150px" />
@@ -21,7 +21,7 @@
       <mj-column width="100%">
         <mj-divider border-color="#1f2e78"/>
         <mj-text color="#1f2e78" align="center" font-size="13px" padding="20px" font-weight="bold" text-transform="uppercase" letter-spacing="1px" line-height="20px">
-          <img src="./media/location.png" alt="location" width="20px">Av. de les Fires, <br>
+          <img src="https://raw.githubusercontent.com/MssMunroe/Cevisama/refs/heads/main/media/location.png" alt="location" width="20px">Av. de les Fires, <br>
            València, Valencia
         </mj-text>
         <mj-spacer height="20px"/>
