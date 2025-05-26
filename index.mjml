@@ -9,11 +9,19 @@
 
   <mj-body background-color="#E7E7E7" width="600px">
     <mj-section full-width="full-width" background-color="#edd617" padding-bottom="0">
-      <mj-column width="100%">
+    <mj-column width="50%">
+          <mj-image src="./media/ferialogo.png" alt="Logo Feria" align="center" width="150px" />
+      </mj-column>
+          <mj-column width="50%">
         <mj-image src="https://raw.githubusercontent.com/MssMunroe/Cevisama/refs/heads/main/media/letras.png" alt="Letras Cevisama" align="center" width="150px" />
+      </mj-column>
+  </mj-section>
+    <mj-section full-width="full-width" background-color="#edd617" padding-bottom="0">
+      
+      <mj-column width="100%">
         <mj-divider border-color="#1f2e78"/>
         <mj-text color="#1f2e78" align="center" font-size="13px" padding="20px" font-weight="bold" text-transform="uppercase" letter-spacing="1px" line-height="20px">
-          Av. de les Fires, <br>
+          <img src="./media/location.png" alt="location" width="20px">Av. de les Fires, <br>
            València, Valencia
         </mj-text>
         <mj-spacer height="20px"/>
@@ -31,17 +39,17 @@
       <mj-section background-color="#ffffff" padding="15px 0 0 15px">
         <mj-column width="100%">
 
-          <mj-text align="center" color="#212b35" font-weight="bold" font-size="20px">
+          <mj-text align="center" color="#212b35" font-weight="bold" font-size="30px" padding="20px">
             ¿Cómo deseas participar?
           </mj-text>
          
-          <mj-button background-color="#1f2e78" align="center" color="#ffffff" font-size="17px" font-weight="bold" href="https://cevisama.feriavalencia.com/visitar/" width="300px">
+          <mj-button background-color="#1f2e78" align="center" color="#ffffff" font-size="20px" font-weight="bold" href="https://cevisama.feriavalencia.com/visitar/" width="300px">
             Visitante
           </mj-button>
-          <mj-button background-color="#1f2e78" align="center" color="#ffffff" font-size="17px" font-weight="bold" href="https://cevisama.feriavalencia.com/exponer/" width="300px">
+          <mj-button background-color="#1f2e78" align="center" color="#ffffff" font-size="20px" font-weight="bold" href="https://cevisama.feriavalencia.com/exponer/" width="300px">
             Expositor
           </mj-button>
-          <mj-text color="#637381" font-size="16px" padding-top="30px">
+          <mj-text color="#637381" font-size="18px" padding-top="40px" align="justify">
           Este es el espacio perfecto para exponer y conseguir una mayor exposición mundial, así como crear nuevas relaciones comerciales.
           </mj-text>
          
@@ -52,20 +60,21 @@
 
         <mj-column width="100%">
           <mj-divider border-color="#DFE3E8" border-width="1px" />
-          <mj-text color="#212b35" font-weight="bold" font-size="25px" padding="25px">
+          <mj-text color="#212b35" font-weight="bold" font-size="35px" padding="25px">
             ¿Deseas exponer?
           </mj-text>
-          <mj-text color="#637381" font-size="16px">
+          <mj-text color="#637381" font-size="20px" align="justify">
             Diseño, sostenibilidad, innovación, tecnología, tendencias, nuevos materiales, todo esto y más
             en Cevisama 2026.
           </mj-text>
-          <mj-text color="#637381" font-size="16px">
+          <mj-text color="#637381" font-size="20px" align="justify">
             Más de 60.000 visitantes, nacionales e internacionales, desde España hasta Estados Unidos pasando por Alemania,
             con un 68% interesados en buscar las mejores baldosas de cerámica del mercado, y un 40% en búsqueda de equipamiento para el baño.
           </mj-text>
-          <mj-text color="#637381" font-size="16px">
+          <mj-text color="#637381" font-size="20px" align="justify">
             Pero tranquilo que si ese no es tu sector, también contamos con más de un 15% que desea materias primas, maquinaria, tecnología y arquitectura sostenible.
           </mj-text>
+          <mj-spacer height="20px" />
           <mj-image src="https://raw.githubusercontent.com/MssMunroe/Cevisama/refs/heads/main/media/visitas.png" alt="Número de visitantes" />
         </mj-column>
       </mj-section>
