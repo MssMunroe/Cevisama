@@ -21,6 +21,9 @@
       <mj-column width="100%">
         <mj-divider border-color="#1f2e78"/>
         <mj-text color="#1f2e78" align="center" font-size="13px" padding="20px" font-weight="bold" text-transform="uppercase" letter-spacing="1px" line-height="20px">
+          🏢 Bienvenido, {{empresa}}
+        </mj-text>
+        <mj-text color="#1f2e78" align="center" font-size="13px" padding="20px" font-weight="bold" text-transform="uppercase" letter-spacing="1px" line-height="20px">
           <img src="https://serverimagenes.duckdns.org/location.png" alt="location" width="20px">Av. de les Fires, <br>
            València, Valencia
         </mj-text>
