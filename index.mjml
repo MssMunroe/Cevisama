@@ -8,7 +8,7 @@
   </mj-head>
 
   <mj-body background-color="#E7E7E7" width="600px">
-    <mj-section full-width="full-width" background-color="#edd617" padding-bottom="0">
+    <mj-section full-width="full-width" background-color="#f0c815" padding-bottom="0">
     <mj-column width="50%">
           <!-- <mj-image src="https://serverimagenes.duckdns.org/ferialogo.png" alt="Logo Feria" align="center" width="150px" /> -->
           <mj-image src="https://raw.githubusercontent.com/MssMunroe/Cevisama/refs/heads/main/media/ferialogo.png" alt="Logo Feria" align="center" width="150px" />
@@ -18,7 +18,7 @@
         <mj-image src="https://raw.githubusercontent.com/MssMunroe/Cevisama/refs/heads/main/media/letras.png" alt="Letras Cevisama" align="center" width="150px" />
       </mj-column>
   </mj-section>
-    <mj-section full-width="full-width" background-color="#edd617" padding-bottom="0">
+    <mj-section full-width="full-width" background-color="#f0c815" padding-bottom="0">
       
       <mj-column width="100%">
         <mj-divider border-color="#1f2e78"/>
